@@ -1,0 +1,21 @@
+.searchBar {
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    padding: 10px;
+    
+}
+
+.searchBar form button {
+    background-color: lightgreen;
+    width: 200px;
+}
+
+.searchBar form input {
+    width: 200px;
+}
+
+.searchBar form {
+    display: flex;
+    flex-direction: column;
+
+}
