@@ -1,3 +1,7 @@
+This is a picture searching app I developed with React. I utilized UnsplashAPI. 
+You can type a searching term and see the accurate pictures related with the term.
+
+---------------------------------------------------------------------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
