@@ -1,4 +1,4 @@
-This is a picture searching app I developed with React. I utilized UnsplashAPI. 
+This is a picture searching app I developed with React and CSS. I utilized UnsplashAPI. 
 You can type a searching term and see the accurate pictures related with the term.
 
 ---------------------------------------------------------------------------------------------------
